@@ -1,0 +1,2 @@
+[web]
+192.168.121.220 ansible_user=vagrant ansible_private_key_file=.vagrant/machines/default/libvirt/private_key
